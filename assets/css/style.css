@@ -32,7 +32,6 @@ header {
     margin-left: 50px;
 }
 
-
 .logo {
     background: url("/assets/images/jamie.jpg");
     background-position: center;
@@ -114,4 +113,13 @@ header {
 .hvr-sweep-to-bottom:before {
     background: rgba(0, 0, 0, 0.2);
     height: 120px;
+}
+
+/* Footer */
+
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
 }
