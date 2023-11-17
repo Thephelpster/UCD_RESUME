@@ -192,6 +192,11 @@ header {
     height: 120px;
 }
 
+.hvr-sweep-to-top:before {
+    background: rgba(0, 0, 0, 0.2);
+    height: 32px;
+}
+
 
 /*--------------------------------------------Footer*/
 
@@ -258,7 +263,7 @@ footer .cv-pdf i:hover {
 
 .three-reasons-icon {
     font-size: 26px;
-    color: #e67e22;
+    color: #003B6F;
 }
 
 .three-reasons-heading {
@@ -317,6 +322,10 @@ footer .cv-pdf i:hover {
     background-color: rgba(25, 25, 25, 0.2);
 }
 
+.skills-icon {
+    font-size: 26px;
+    color: #434D8A;
+}
 
 .progress-section {
     margin: 40px 20px;
@@ -390,7 +399,7 @@ footer .cv-pdf i:hover {
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
-    background-color: #e84610;
+    background-color: #735FA3;
     color: #fafafa;
 }
 
